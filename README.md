@@ -26,3 +26,7 @@ I only found messed up date fields in csv. The dates were in different formats a
 9. What is the average number of viewers for all episodes?
 10. How does the number of viewers vary across seasons?
 11. Are there any episodes that have a high IMDb rating but a relatively low number of viewers, or vice versa?
+
+### Note:
+1) Game of thrones pdf file in this respository contains queries, explanations and also the picture of query output.
+2) There is .sql file which contains all the queries used in this analysis.
